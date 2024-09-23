@@ -1,1 +1,3 @@
-# telebot
+-- (Python Programming)
+-- This script creates a Telegram bot that responds to various commands.
+-- The bot provides links and information about different resources
